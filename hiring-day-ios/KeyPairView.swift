@@ -1,5 +1,5 @@
 //
-//  OrderView.swift
+//  KeyPairView.swift
 //  hiring-day-ios
 //
 //  Created by bruno on 28/10/21.
@@ -7,15 +7,15 @@
 
 import SwiftUI
 
-struct OrderView: View {
+struct KeyPairView: View {
     var body: some View {
         Text("Hello, world!")
             .padding()
     }
 }
 
-struct OrderView_Previews: PreviewProvider {
+struct KeyPairView_Previews: PreviewProvider {
     static var previews: some View {
-        OrderView()
+        KeyPairView()
     }
 }
