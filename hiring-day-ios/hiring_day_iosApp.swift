@@ -11,7 +11,7 @@ import SwiftUI
 struct hiring_day_iosApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            OrderView()
         }
     }
 }
