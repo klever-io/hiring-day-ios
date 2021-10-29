@@ -9,6 +9,7 @@ import SwiftUI
 
 struct KeyPairView: View {
     var body: some View {
+        //here you should use a List or a ScrollView
         Text("Create here a list of Keypairs")
             .padding()
     }

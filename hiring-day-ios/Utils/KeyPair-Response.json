@@ -1,0 +1,20 @@
+[
+    {
+        "name":"DVK/KLV",
+        "closePrice":0.25568462,
+        "price":0.11659895,
+        "variation":"+ 1.35%"
+    },
+    {
+        "name":"ETH/TRX",
+        "closePrice":0.04567945,
+        "price":0.045679,
+        "variation":"- 25.80%"
+    },
+    {
+        "name":"KLV/USDT",
+        "closePrice":0.04567945,
+        "price":0.045679,
+        "variation":"+ 33.66%"
+    }
+]

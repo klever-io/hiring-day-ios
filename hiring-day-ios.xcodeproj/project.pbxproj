@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1527413B272B888B005DFE1F /* KeyPair-Response.json in Resources */ = {isa = PBXBuildFile; fileRef = 1527413A272B888A005DFE1F /* KeyPair-Response.json */; };
 		157168A8272B455C00874D17 /* hiring_day_iosApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 157168A7272B455C00874D17 /* hiring_day_iosApp.swift */; };
 		157168AA272B455C00874D17 /* KeyPairView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 157168A9272B455C00874D17 /* KeyPairView.swift */; };
 		157168AC272B455E00874D17 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 157168AB272B455E00874D17 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1527413A272B888A005DFE1F /* KeyPair-Response.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "KeyPair-Response.json"; sourceTree = "<group>"; };
 		157168A4272B455C00874D17 /* hiring-day-ios.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "hiring-day-ios.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		157168A7272B455C00874D17 /* hiring_day_iosApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hiring_day_iosApp.swift; sourceTree = "<group>"; };
 		157168A9272B455C00874D17 /* KeyPairView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyPairView.swift; sourceTree = "<group>"; };
@@ -35,6 +37,7 @@
 		15274139272B86DF005DFE1F /* Utils */ = {
 			isa = PBXGroup;
 			children = (
+				1527413A272B888A005DFE1F /* KeyPair-Response.json */,
 			);
 			path = Utils;
 			sourceTree = "<group>";
@@ -135,6 +138,7 @@
 			files = (
 				157168AF272B455E00874D17 /* Preview Assets.xcassets in Resources */,
 				157168AC272B455E00874D17 /* Assets.xcassets in Resources */,
+				1527413B272B888B005DFE1F /* KeyPair-Response.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
