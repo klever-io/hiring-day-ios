@@ -9,7 +9,7 @@ import SwiftUI
 
 struct KeyPairView: View {
     var body: some View {
-        Text("Hello, world!")
+        Text("Create here a list of Keypairs")
             .padding()
     }
 }
