@@ -8,6 +8,6 @@ Below is a sample picture that you should follow in order to create this feature
 
 <img width="274" alt="sample" src="https://user-images.githubusercontent.com/10541956/139362451-c4b504fc-117a-4b33-b8b3-7a7a8b14cef4.png">
 
-##Figma
+## Figma
 https://www.figma.com/file/WCKf5FSP4eOsJm64BMyzZO/Layout-Test---Front-end?node-id=0%3A1
 
