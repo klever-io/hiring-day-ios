@@ -6,7 +6,7 @@ You are about to create a simple feature to list an array of key pairs, the cont
 ## Sample Picture
 Below is a sample picture that you should follow in order to create this feature
 
-<img width="274" alt="sample" src="https://user-images.githubusercontent.com/10541956/139362451-c4b504fc-117a-4b33-b8b3-7a7a8b14cef4.png">
+<img width="531" alt="Screen Shot 2021-10-29 at 11 13 20" src="https://user-images.githubusercontent.com/10541956/139450359-3c89b452-5684-4c8e-ae43-95d75aef88e6.png">
 
 ## Figma
 https://www.figma.com/file/WCKf5FSP4eOsJm64BMyzZO/Layout-Test---Front-end?node-id=0%3A1
