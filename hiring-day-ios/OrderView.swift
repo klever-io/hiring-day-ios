@@ -1,5 +1,5 @@
 //
-//  ContentView.swift
+//  OrderView.swift
 //  hiring-day-ios
 //
 //  Created by bruno on 28/10/21.
@@ -7,15 +7,15 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct OrderView: View {
     var body: some View {
         Text("Hello, world!")
             .padding()
     }
 }
 
-struct ContentView_Previews: PreviewProvider {
+struct OrderView_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView()
+        OrderView()
     }
 }
